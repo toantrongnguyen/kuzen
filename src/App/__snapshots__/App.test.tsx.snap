@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`On test App should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <div
+      class="field"
+    >
+      <label
+        class="label"
+      >
+        Github username
+      </label>
+      <div
+        class="control"
+      >
+        <input
+          aria-label="username-input"
+          class="input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <div
+      class="field"
+    >
+      <label
+        class="label"
+      >
+        Github username
+      </label>
+      <div
+        class="control"
+      >
+        <input
+          aria-label="username-input"
+          class="input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
